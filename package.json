@@ -3,6 +3,7 @@
 	"author": "f2xiao",
   "description": "A project that does something awesome",
   "keywords": ["freecodecamp", "npm"],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
